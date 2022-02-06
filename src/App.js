@@ -14,11 +14,6 @@ export default function App() {
 }
 
 
-return (
-  <div className="App2">
-    <h2>HOLA PRUEBA 2</h2>
-    </div>
-);
 
 
-export default App2;
+
